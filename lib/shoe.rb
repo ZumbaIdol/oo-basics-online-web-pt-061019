@@ -10,6 +10,6 @@ class Shoe
   end
   
   def cobble(message)
-    puts 
+    puts "The shoe has been repaired"
   end
 end
